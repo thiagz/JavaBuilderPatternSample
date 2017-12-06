@@ -15,6 +15,10 @@ java.nio.ByteBuffer#put() (also on CharBuffer, ShortBuffer, IntBuffer, LongBuffe
 javax.swing.GroupLayout.Group#addComponent()  
 All implementations of java.lang.Appendable  
 
+Type
+-----  
+Creational Pattern   
+
 Author
 ------
 Thiagu Subbiah  
